@@ -20,7 +20,7 @@ The system is composed by different units based on ESP32:
 
 For more information, please refer to:
 
-* [The project Wiki](https://ohwr.org/project/wrtd/wikis/Home)
+XXXXX
 
 ## Licensing
 
