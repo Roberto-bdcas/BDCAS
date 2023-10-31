@@ -25,7 +25,7 @@ XXXXX
 ## Licensing
 
 * HDL simulations released under `CERN-OHL-W-2.0` (https://cern-ohl.web.cern.ch/home)
-* All software released under `LGPL-2.1-or-later` (https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html)
+* All software released under `MIT license` (https://mit-license.org/)
 
 
 ## Disclaimer
